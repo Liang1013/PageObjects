@@ -1,0 +1,5 @@
+#测试环境
+test:
+  url:  https://jcrmweb.maimiaotech.com/#/login
+  user: **************
+  paw:  **************
